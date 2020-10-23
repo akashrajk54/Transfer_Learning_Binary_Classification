@@ -1,0 +1,2 @@
+# Transfer_Learning_Binary_Classification
+ I will implement the binary-class image classification using the VGG-16 Deep Convolutional Network as a Transfer Learning framework where the VGGNet comes pre-trained on the ImageNet dataset. For the experiment, we will use the Kaggle dogs-vs-cats dataset and classify the image objects into 2 classes. The classification accuracies of the VGG-16 model will be visualized using the confusion matrices.
